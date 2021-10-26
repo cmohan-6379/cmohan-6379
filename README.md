@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chandru Mohan, Working for Kronos Team
-- 👀 I’m interested in Java/Spring Boot / Azure DevOps
+- 👀 I’m interested in Java/Spring Boot / Azure DevOps / Kronos
 - 🌱 I’m currently learning YML Scripting
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on YAML Scripting & Azure DevOps
 - 📫 How to reach me : cmohan@woolworths.com.au 
 
 <!---
